@@ -24,8 +24,8 @@ printf "\e[1;91m  ;       ;                       °°   ~~--  °:°  ::;       
 printf "\e[1;91m                                   °:         : .::/                   \e[0m\n"
 printf "\e[1;91m      ;                            ;;+_  :::. :..;;;                   \e[0m\n"
 printf "\e[1;91m                                   ;;;;;;,;;;;;;;;,;                   \e[0m\n"
-printf "\e[1;94m                                                                       \e[0m\
-printf "\033[32m       ({</mohammadmahdi\>})
+
+printf "\e[1;94m            ({</mohammadmahdi\>})                                      \e[0m\n"
                                                  _         _
 printf "\e[1;94m                                | |       | |(_)                       \e[0m\n"
 printf "\e[1:92m  _ __ ___  _ __ _ __ ___   __ _| |__   __| |_                         \e[0m\n"
