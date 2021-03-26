@@ -26,15 +26,13 @@ printf "\e[1;91m      ;                            ;;+_  :::. :..;;;            
 printf "\e[1;91m                                   ;;;;;;,;;;;;;;;,;                   \e[0m\n"
 
 printf "\e[1;94m            ({</mohammadmahdi\>})                                      \e[0m\n"
-
-
-printf "\e[1;94m                                                                       \e[0m\n"
-printf "\e[1;94m                      #            #   ##m##                           \e[0m\n"
-printf "\e[1;94m                      #            #     #                             \e[0m\n"
-printf "\e[1;94m      mmmmmmm   mmm   # mm      mmm#     #                             \e[0m\n"
-printf "\e[1;94m      #  #  #  "   #  #    #   #" "#     #                             \e[0m\n"
-printf "\e[1;94m      #  #  #  m"""#  #    #   #   #     #                             \e[0m\n"
-printf "\e[1;94m      #  #  #  "mm"#  #    #   "#m##   mm#mm                           \e[0m\n"
+                                                                      
+printf "\e[1;94m                #            #   ##m## \e[0m\n"
+printf "\e[1;94m                #            #     #   \e[0m\n"
+printf "\e[1;94mmmmmmmm   mmm   # mm      mmm#     #   \e[0m\n"
+printf "\e[1;94m#  #  #  "   #  #    #   #" "#     #   \e[0m\n"
+printf "\e[1;94m#  #  #  m"""#  #    #   #   #     #   \e[0m\n"
+printf "\e[1;94m#  #  #  "mm"#  #    #   "#m##   mm#mm \e[0m\n"
 
 
 PS1='\[\e[91m\]┌─[\[\e[97m\]\T\[\e[91m\]]─────\e[1;91m[\e[1;92mMohammadmahdi\e[1;91m]\e[0;91m───[\e[1;96m\#\e[1;91m]\n|\n\e[0;91m└─[\[\e[91m\]\e[0;95m\W\[\e[92m\]]──► '
